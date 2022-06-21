@@ -8,3 +8,5 @@ Models used: XGBoost, CatBoost, LightGBM \
 Accuracy metric: ROC AUC
 
 For detailed information, view the project report.
+
+<a href="https://www.kaggle.com/competitions/iit-madras-paybuddy/overview/description">Link to Kaggle contest</a>
